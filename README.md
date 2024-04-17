@@ -53,11 +53,4 @@ Before using this tool, ensure you have the following:
 - **all_images**: Directory to store downloaded images.
 - **ann_folder**: Directory to store annotated images with bounding boxes.
 
-## Credits
 
-- This project utilizes the SuperAnnotate API for data extraction and manipulation.
-- Developed by [Your Name].
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
