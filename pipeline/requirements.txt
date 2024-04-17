@@ -1,0 +1,6 @@
+opencv_python==4.7.0.72
+opencv_python_headless==4.8.1.78
+pandas==1.5.3
+protobuf==4.25.1
+superannotate==4.4.16
+pip install COCO_merger

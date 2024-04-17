@@ -1,0 +1,86 @@
+{
+    "images": [],
+    "categories": [
+      {
+        "id": 0,
+        "name": "UPSTruck"
+      },
+      {
+        "id": 1,
+        "name": "FerrariTruck"
+      },
+      {
+        "id": 2,
+        "name": "FedexTruck"
+      },
+      {
+        "id": 3,
+        "name": "DHLTruck"
+      },
+      {
+        "id": 4,
+        "name": "USPSTruck"
+      },
+      {
+        "id": 5,
+        "name": "Person"
+      },
+      {
+        "id": 6,
+        "name": "RolexLogo"
+      },
+      {
+        "id": 7,
+        "name": "Truck"
+      },
+      {
+        "id": 8,
+        "name": "DoorOpen"
+      },
+      {
+        "id": 9,
+        "name": "AmazonTruck"
+      },
+      {
+        "id": 10,
+        "name": "GarbageCan"
+      },
+      {
+        "id": 11,
+        "name": "Dog"
+      },
+      {
+        "id": 12,
+        "name": "Package"
+      },
+      {
+        "id": 13,
+        "name": "Cleaning"
+      },
+      {
+        "id": 14,
+        "name": "Laptop"
+      },
+      {
+        "id": 15,
+        "name": "Car"
+      },
+      {
+        "id": 16,
+        "name": "Motorbike"
+      },
+      {
+        "id": 17,
+        "name": "PersonwithPPE"
+      },
+      {
+        "id": 18,
+        "name": "PersonwithoutPPE"
+      },
+      {
+        "id": 19,
+        "name": "PersonwithPPE_Mask"
+      }
+    ],
+    "annotations": []
+  }
